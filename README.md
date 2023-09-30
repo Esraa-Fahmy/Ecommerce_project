@@ -1,4 +1,4 @@
 # Ecommerce_project 
-for Funiture 
+for Furniture 
 
-Funiture_Ecommerce
+Funriture_Ecommerce
